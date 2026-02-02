@@ -1,0 +1,12 @@
+package hellowaorldcom.company;
+
+public class problem3 {
+    static void check() throws ArithmeticException
+    {
+        int a=10/0;
+    }
+    public static void main(String args[]){
+        check();
+
+    }
+}
